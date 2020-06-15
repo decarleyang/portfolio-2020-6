@@ -40,19 +40,11 @@
       </div>
     </div>
 
-    <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-
-    
-
     <script src="js/jquery-3.5.1.min.js"></script>
-    <script>
-        
-    </script>
     <script src="js/Chart.min.js"></script>
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/anime.min.js"></script>
-
     <script src="js/main.js"></script>
   </body>
 </html>

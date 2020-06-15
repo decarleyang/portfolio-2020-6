@@ -205,6 +205,5 @@
     <div class="masking-wrap">
       <div class="masking"></div>
     </div>
-
  
 <?php include 'footer.php';?>
