@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="wheel.svg"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   id="svg2585"
+   version="1.1"
+   viewBox="0 0 8 8"
+   height="8mm"
+   width="8mm">
+  <defs
+     id="defs2579" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="161"
+     inkscape:window-x="598"
+     inkscape:window-height="1016"
+     inkscape:window-width="1428"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="95.982595"
+     inkscape:cx="-10.544767"
+     inkscape:zoom="2.7624581"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata2582">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="translate(-175.29684,-57.298049)"
+       id="g3191">
+      <g
+         id="g3183">
+        <g
+           transform="matrix(-1.045447,0,0,1.045447,474.46673,-1643.3743)"
+           id="g4290-5">
+          <circle
+             transform="matrix(0.1814435,0,0,0.1814435,144.02783,1497.7437)"
+             id="circle130-6"
+             fill="#3f3d56"
+             r="18.835091"
+             cy="732.04181"
+             cx="762.2793"
+             style="fill:#070c0d;fill-opacity:1" />
+          <circle
+             transform="matrix(0.1814435,0,0,0.1814435,144.02783,1497.7437)"
+             id="circle132-2"
+             fill="#cccccc"
+             r="9.9132099"
+             cy="732.04181"
+             cx="762.2793" />
+          <rect
+             transform="matrix(0.1814435,0,0,0.1814435,144.02783,1497.7437)"
+             y="731.52563"
+             x="751.30786"
+             height="1.0322882"
+             width="21.942852"
+             id="rect1624-6-9"
+             style="fill:#070c0d;fill-opacity:1;stroke-width:0.291643" />
+          <rect
+             transform="matrix(0,-0.1814435,0.1814435,0,144.02783,1497.7437)"
+             style="fill:#070c0d;fill-opacity:1;stroke-width:0.291643"
+             id="rect1624-3-7-1"
+             width="21.942852"
+             height="1.0322882"
+             x="-743.01324"
+             y="761.76312" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
